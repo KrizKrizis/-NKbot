@@ -1,0 +1,6 @@
+vkbottle==4.8.1
+apscheduler>=3.10.0
+python-dotenv>=1.0.0
+bcrypt>=4.0.0
+aiosqlite>=0.19.0
+asyncpg>=0.28.0
